@@ -21,4 +21,7 @@ Formato de Arquivo de Dados específica como os dados são armazenados para uma 
 Os dados proprietários, por sua vez são, na verdade, definidos e controlados por interesses privados. Exemplos de dados proprietários são: DWG, SWF, DOC, PPT.
 Exemplos de dados abertos: PNG, SVG, MP3
 
-
+Diferença entre 3 linguagens de programação 
+Python - Linguagem de programação de uso geral, podendo ser usada para criar uma grande variedade de aplicaçõe diferentes, não sendo especializada
+Java - Linguagem de programação muito usada em jogos de videogame 
+Swift - Linguagem de programação criada pela Apple, sendo mais simples e facil do que a objective-C criada anteriormente pela IOS 
