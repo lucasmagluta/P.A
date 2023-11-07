@@ -1,3 +1,13 @@
+EXERCÍCIO 01
+MPF - MG investiga se INSS negou pedido de forma automatizada, segundo denúncias de que esse estaria negando pedidos de aposentadoria de maneira automatizada 
+Esse sistema teria sido implementada para agilizar a resposta dada aos beneficiários, sendo utilizado supostamente uma rede neural artificial que seria um
+modelo matemático para dar a resposta devida de acordo com os dados da pessoa. Dito isso, deve-se reafirmar que o Código de Defesa do Consumidor afirma que, para a negativa 
+de crédito ser feita de maneira correta deve ser fornecida uma justificativa, mas cabe a polêmica se sequer seria possível ser feito por meio de uso de algoritimos somente
+porque tem de ser observado qualidades de necessidade que a máquina de computador não teria capacidade de solucionar 
+
+
+
+EXERCÍCIO 2 
 CONCEITOS DE PROGRAMAÇÃO E DIREITO
 Algoritimo
 - Sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. Geralmente utilizado para resolver problemas matemáticos específicos, executar tarefas ou realizar cálculos e equações 
@@ -11,8 +21,7 @@ FONTE: https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/wh
 
 
 
-
-
+EXERCÍCIO 3
 Relação entre a LGPD e os Data Centers no Brasil 
 - Lei geral de Proteção de Dados (LGPD) foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo.
 Um Data Center, por sua vez, é um local físico que armazena máquinas de computação e seus equipamentos de hardware relacionados. Sendo assim, a LGPD vem para regular dentro dos limites propostos pela Lei, o seu funcionamento, obrigando aos profissionais da companhia a incorporar a privacidade e a privacidade dos dados pessoais em todos os projetos desenvolvidos pela comunidade 
@@ -21,7 +30,39 @@ Formato de Arquivo de Dados específica como os dados são armazenados para uma 
 Os dados proprietários, por sua vez são, na verdade, definidos e controlados por interesses privados. Exemplos de dados proprietários são: DWG, SWF, DOC, PPT.
 Exemplos de dados abertos: PNG, SVG, MP3
 
+
+
+EXERCÍCIO 4 
 Diferença entre 3 linguagens de programação 
 Python - Linguagem de programação de uso geral, podendo ser usada para criar uma grande variedade de aplicaçõe diferentes, não sendo especializada
 Java - Linguagem de programação muito usada em jogos de videogame 
-Swift - Linguagem de programação criada pela Apple, sendo mais simples e facil do que a objective-C criada anteriormente pela IOS 
+Swift - Linguagem de programação criada pela Apple, sendo mais simples e facil do que a objective-C criada anteriormente pela IOS
+
+
+
+EXERCÍCIO 5
+Ordem de precedência dos operadores (aritméticos e lógicos) e como ela pode ser modificada
+- Operadores aritméticos são aqueles relacionados a operações matemáticas tais quais soma, subtração, divisão e multiplicação
+Já a soma lógica como, por exemplo de negação se X é 0, então Y será a consequência daquele 0
+Podem ser modificados através de mudanças no código, alterando o resultado final gerado
+
+
+
+EXERCÍCIO 6
+def simples (cor):
+    if cor == 'azul':
+    return 'escolheu certo'
+
+def médio (cor):
+    if cor == 'azul':
+    return 'escolheu certo'
+else:
+    return 'tente outra cor'
+
+def completo (cor):
+  if cor == 'azul':
+   return 'escolheu certo'
+  elif cor == 'marrom'
+   return 'não tem salvação'
+  else: 
+   return 'tente outra cor' 
